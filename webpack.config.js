@@ -1,5 +1,8 @@
+//ARCHIVO DE CONFIGURACIÓN DE WEBPACK
 const path = require('path');
+//PLUGIN PARA PROCESAMIENTO DE ARCHIVOS CSS
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+//PLUGIN PARA PROCESAMIENTO DE ARCHIVOS HTML
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
