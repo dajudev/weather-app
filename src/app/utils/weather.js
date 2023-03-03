@@ -2,7 +2,7 @@
 export class Weather {
     
     constructor(city, code){
-        this.apiKey = "d7797682498100db3ac848728bd421f6";
+        this.apiKey = "d7797682498100db3ac848728bd421f6"; //ACA LA KEY OBTENIDA DE OPENWEATHER
         this.city = city;
         this.code = code;
     }
