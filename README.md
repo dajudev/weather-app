@@ -35,7 +35,11 @@ See more about [Openweather](https://openweathermap.org/)
     * Open the page and register on [Openweather](https://openweathermap.org/)
     * Get the APIKey that will allow you to consume the service
     * On the ```./src/app/utils/weather``` and put the key on the constructor where it is indicated
-
+    
+3. Webpack
+   * For using webpack funcionalities you can run the following npm commands on the terminal <br>
+      ```"build": "webpack --mode production"```<br>
+      ```"dev": "webpack serve --mode development"```
 ## Demo
    
     
